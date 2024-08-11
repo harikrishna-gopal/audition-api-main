@@ -20,7 +20,7 @@ public class AuditionService {
 
     /**
      *
-     * @param postId - Input postId
+     * @param postId -   Input postId
      * @return Audition Details based on a given postId
      *
      */
