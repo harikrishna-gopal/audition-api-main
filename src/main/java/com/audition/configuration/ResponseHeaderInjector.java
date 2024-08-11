@@ -2,6 +2,9 @@ package com.audition.configuration;
 
 import org.springframework.stereotype.Component;
 
+/**
+ * @author Hari
+ */
 @Component
 public class ResponseHeaderInjector {
 

@@ -2,6 +2,9 @@ package com.audition.common.exception;
 
 import lombok.Getter;
 
+/**
+ * @author Hari
+ */
 @Getter
 public class SystemException extends RuntimeException {
 

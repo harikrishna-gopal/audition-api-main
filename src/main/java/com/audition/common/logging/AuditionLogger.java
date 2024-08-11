@@ -5,6 +5,9 @@ import org.slf4j.Logger;
 import org.springframework.http.ProblemDetail;
 import org.springframework.stereotype.Component;
 
+/**
+ * @author Hari
+ */
 @Component
 public class AuditionLogger {
 

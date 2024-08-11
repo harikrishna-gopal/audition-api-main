@@ -11,6 +11,8 @@
     </filter>
   </appender>
 
+
+
   <appender class="ch.qos.logback.core.rolling.RollingFileAppender" name="flatfile">
     <encoder>
       <charset>utf8</charset>

@@ -7,7 +7,9 @@ import org.springframework.http.HttpStatus;
 
 import java.time.LocalTime;
 
-
+/**
+ * @author Hari
+ */
 @Data @AllArgsConstructor
 @Schema(
         name = "ErrorResponse",

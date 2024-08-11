@@ -9,6 +9,9 @@ import jakarta.validation.constraints.Pattern;
 import jakarta.validation.constraints.Size;
 import lombok.Data;
 
+/**
+ * @author Hari
+ */
 @Getter
 @Setter
 //@Data

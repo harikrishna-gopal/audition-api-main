@@ -17,6 +17,7 @@ sourceCompatibility = '17'
 targetCompatibility = '17'
 
 
+
 // TODO allow for code-analysis.gradle to be applied for code analysis.
 // apply from: 'config/code-analysis.gradle'
 

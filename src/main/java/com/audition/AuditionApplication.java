@@ -7,7 +7,9 @@ import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.annotations.info.Contact;
 import io.swagger.v3.oas.annotations.info.Info;
 import io.swagger.v3.oas.annotations.info.License;
-
+/**
+ * @author Hari
+ */
 @OpenAPIDefinition(
         info = @Info(
                 title = "Audition Application REST API Documentation",
